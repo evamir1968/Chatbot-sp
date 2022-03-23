@@ -40,7 +40,7 @@ Code can be found in the `03-simple-forms` folder.
 
 ## 4. Asking Questions 
 
-You can customise how questions are asked in a form. You can write templates in a domain.yml file or use custom actions.
+You can customise how questions are asked in a form. You can write templates in a l file or use custom actions.
 
 ## 5. Form Validation 
 
